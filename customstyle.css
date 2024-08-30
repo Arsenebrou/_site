@@ -1,0 +1,23 @@
+/* css styles */
+
+/* Custom styles for removing the vertical line */
+
+.nav-footer-left {
+  text-align: left;
+}
+
+.nav-footer-right {
+  text-align: right;
+}
+
+
+/* Attempt to target the correct element */
+.about-left,
+.quarto-about-left {
+    border-right: none !important;  /* Remove the vertical line */
+}
+
+.quarto-about-left,
+.about-left img {
+    border-right: none !important;  /* Targeting the image container */
+}

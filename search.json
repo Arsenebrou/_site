@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Arsène Brou",
+    "section": "",
+    "text": "EDUCATION\n\nDoctor of Philosophy in Quantitative Finance (Ph.D.)\n\n2020-present\nUniversité Laval, Québéc\n\n\n\nM.Sc. In Statistics and Quantitative Economics (ISE)\n\n2016-2019\nEcole Nationale Supérieure d’Economie Appliquée (ENSEA), Abidjan, Côte d’Ivoire\n\n\n\nBachelor of Business Administration - Mathematics\n\n2014-2016\nInstitut National Polytechnique (INP-HB), Yamoussoukrou, Côte d’Ivoire"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Arsène Brou",
+    "section": "",
+    "text": "👋🏽 Welcome to my personal webpage\nI am thrilled to be here as a Ph.D. candidate in Quantitative Finance at the Department of Finance, Insurance and Real Estate at Laval University. My passion lies in the dynamic intersection of Financial Econometrics and Simulation-based Inference, where I explore applications in Forecasting, Portfolio Allocation, and Risk Management.\nI also have a background in Statistics and Quantitative Economics. Please find my CV here\n\nUpcoming presentations\n\n17th International Conference on Computational and Financial Econometrics, December 16-18, 2023\n\n\n\nRecent presentations\n\n57th Annual Conference of the Canadian Economics Association, June 2-3, 2023\n61st Annual Meeting of the Société canadienne de science économique, May 10-12, 2023\n16th International Conference on Computational and Financial Econometrics, December 17-19, 2022\n15th International Conference on Computational and Financial Econometrics, December 18-20, 2021 [Virtual]"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "// A simplified decomposition approach for evaluating stock return predictability (with Richard Luger)\nAbstract\nThe modelling approach in Anatolyev and Gospodinov (2010) decomposes asset returns into their signs and absolute values, and obtains the joint distribution by specifying a multiplicative error model for the absolute values, a dynamic binary choice model for the signs, and a bivariate copula for their interaction. With this copula-based approach, each component is specified conditional on past information. In this paper, we propose a simplified approach that recovers the dynamics of the joint distribution with a specification for the sign component that conditions on past information and the contemporaneous absolute value. In sharp contrast to the original decomposition model, the simplified approach avoids the need to specify a copula for joining a continuous margin with a discrete one. Simulation results demonstrate that the simplified approach does as well as copula-based specifications, and empirical findings show that a larger degree of stock return predictability is revealed by decomposition modelling than by traditional predictive regressions.\n\nKeywords: Predictive regression; Stock return predictability; Direction-of-change model; Absolute returns; Copula model\nJEL Classification: C13, C22, C51, G14"
+  },
+  {
+    "objectID": "research.html#working-paper",
+    "href": "research.html#working-paper",
+    "title": "Research",
+    "section": "",
+    "text": "// A simplified decomposition approach for evaluating stock return predictability (with Richard Luger)\nAbstract\nThe modelling approach in Anatolyev and Gospodinov (2010) decomposes asset returns into their signs and absolute values, and obtains the joint distribution by specifying a multiplicative error model for the absolute values, a dynamic binary choice model for the signs, and a bivariate copula for their interaction. With this copula-based approach, each component is specified conditional on past information. In this paper, we propose a simplified approach that recovers the dynamics of the joint distribution with a specification for the sign component that conditions on past information and the contemporaneous absolute value. In sharp contrast to the original decomposition model, the simplified approach avoids the need to specify a copula for joining a continuous margin with a discrete one. Simulation results demonstrate that the simplified approach does as well as copula-based specifications, and empirical findings show that a larger degree of stock return predictability is revealed by decomposition modelling than by traditional predictive regressions.\n\nKeywords: Predictive regression; Stock return predictability; Direction-of-change model; Absolute returns; Copula model\nJEL Classification: C13, C22, C51, G14"
+  }
+]
